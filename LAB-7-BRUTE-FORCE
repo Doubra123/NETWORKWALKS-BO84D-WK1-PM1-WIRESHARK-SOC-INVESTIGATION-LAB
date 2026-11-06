@@ -1,0 +1,23 @@
+# Lab 7: Catch the Brute Force Attacker
+
+## About This Lab
+
+For this investigation, I examined network traffic to identify suspicious login activity associated with a possible brute-force attack.
+
+The exercise focused on recognising repeated authentication attempts and identifying the source of suspicious activity.
+
+## What I Worked On
+
+- Examining captured network traffic.
+- Investigating repeated login attempts.
+- Identifying suspicious authentication patterns.
+- Analysing IP addresses associated with the activity.
+- Completing all 10 tasks in the lab.
+
+## What I Learned
+
+I learned how repeated authentication attempts can indicate a brute-force attack and how network traffic analysis can help identify suspicious login activity.
+
+## My Findings
+
+To be completed with my actual answers and observations from the lab.
