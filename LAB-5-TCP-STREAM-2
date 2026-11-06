@@ -1,0 +1,21 @@
+# Lab 5: Follow TCP Stream, Part 2
+
+## About This Lab
+
+This lab continued my exploration of TCP stream analysis using Wireshark. I worked with another network traffic capture to examine communication and investigate the information contained within the streams.
+
+## What I Worked On
+
+- Examining the provided packet capture.
+- Following TCP streams.
+- Analysing the exchanged network data.
+- Investigating communication patterns.
+- Completing all 10 tasks in the lab.
+
+## What I Learned
+
+This exercise gave me more practice with TCP stream analysis and helped me understand how examining network conversations can support security investigations.
+
+## My Findings
+
+To be completed with my actual answers and observations from the lab.
