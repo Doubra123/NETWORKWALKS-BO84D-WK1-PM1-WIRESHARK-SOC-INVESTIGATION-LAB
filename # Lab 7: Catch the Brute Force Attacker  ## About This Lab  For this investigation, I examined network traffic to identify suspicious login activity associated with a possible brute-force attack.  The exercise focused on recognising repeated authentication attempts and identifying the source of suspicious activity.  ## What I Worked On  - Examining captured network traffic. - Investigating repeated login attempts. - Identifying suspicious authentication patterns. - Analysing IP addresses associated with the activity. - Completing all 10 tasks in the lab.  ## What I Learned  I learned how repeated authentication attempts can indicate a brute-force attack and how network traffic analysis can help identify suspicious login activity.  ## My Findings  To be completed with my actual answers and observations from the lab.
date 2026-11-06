@@ -1,0 +1,21 @@
+# Lab 8: Catch the Call Scammer
+
+## About This Lab
+
+In this final exercise, I investigated network traffic associated with a VoIP call. The objective was to examine the communication and use the available evidence to identify a suspected scammer.
+
+## What I Worked On
+
+- Examining captured VoIP traffic.
+- Investigating call-related network communication.
+- Analysing relevant packet information.
+- Examining the recorded call as part of the investigation.
+- Completing all 10 tasks in the lab.
+
+## What I Learned
+
+I learned how network traffic analysis can be applied to VoIP communication and how examining call-related data can support investigations into suspicious activity.
+
+## My Findings
+
+To be completed with my actual answers and observations from the lab.
