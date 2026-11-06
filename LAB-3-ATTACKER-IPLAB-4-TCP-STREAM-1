@@ -1,0 +1,23 @@
+# Lab 4: Follow TCP Stream 1
+
+## About This Lab
+
+In this lab, I explored how Wireshark can be used to follow TCP streams and examine conversations between devices on a network.
+
+The exercise helped me understand how network communication can be reconstructed and how examining the exchanged data can reveal useful information during an investigation.
+
+## What I Worked On
+
+- Examining captured network traffic.
+- Following TCP streams in Wireshark.
+- Analysing communication between devices.
+- Investigating the data exchanged within TCP connections.
+- Completing all 10 tasks in the lab.
+
+## What I Learned
+
+I learned how TCP streams help reconstruct network conversations and how this feature can make it easier to investigate and understand network activity.
+
+## My Findings
+
+To be completed with my actual answers and observations from the lab.
